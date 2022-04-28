@@ -1,3 +1,3 @@
 # Machine Learning Project 
-* Credit Card Customer Churning Prediction<br>
+* Credit Card Customer Churn Prediction<br>
 
