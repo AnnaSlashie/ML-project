@@ -4,5 +4,5 @@
       
 ## 2. Introduction <br>   
    * The final project and class presentation at Data Science Department of Soochow University.<br>
-     東吳大學資料科學系-109學年度第2學期_網路資料科技應用課程期末報告(2021.06)<br>
+     東吳大學資料科學系-109學年度第2學期網路資料科技應用課程期末報告(2021.06)<br>
 
